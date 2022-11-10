@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fe1a1ee4d33cd2419b8b2947b0fd192, type: 3}
+  m_Name: PlayerPosition
+  m_EditorClassIdentifier: 
+  _position: {fileID: 7340079944809320388, guid: 019ff7084e098e34a97d75dc703147ca,
+    type: 3}
